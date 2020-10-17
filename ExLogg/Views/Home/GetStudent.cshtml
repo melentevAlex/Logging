@@ -1,0 +1,32 @@
+﻿@using ExLogg.Models
+@model Student
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>GetStudent</title>
+    <style>
+        html {
+            font-size: 2em;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <div>
+            Student id: @Model.Id
+        </div>
+        <div>
+            Student name: @Model.Name
+        </div>
+        <div>
+            Student age: @Model.Age
+        </div>
+    </div>
+</body>
+</html>

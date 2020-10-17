@@ -1,0 +1,12 @@
+2020-10-17 23:16:01.3622 | ExLogg.Models.StudentsRepository.GetStudentById | TRACE | Запрашиваемый id студента: 1 
+
+2020-10-17 23:16:01.4369 | ExLogg.Models.StudentsRepository.GetStudentById | TRACE | Попытка подключения к источнику данных 
+
+2020-10-17 23:16:01.4369 | ExLogg.Models.StudentsRepository.GetStudentById | TRACE | Подключение прошло успешно. Затраченное время (мс): 20 
+
+2020-10-17 23:16:36.1488 | ExLogg.Models.StudentsRepository.GetStudentById | TRACE | Запрашиваемый id студента: 2 
+
+2020-10-17 23:16:36.1758 | ExLogg.Models.StudentsRepository.GetStudentById | TRACE | Попытка подключения к источнику данных 
+
+2020-10-17 23:16:36.1758 | ExLogg.Models.StudentsRepository.GetStudentById | TRACE | Подключение прошло успешно. Затраченное время (мс): 20 
+
